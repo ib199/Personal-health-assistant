@@ -1,4 +1,5 @@
 # Personal-health-assistant
+Voice Input | Symptom Analysis | Doctor Recommendation | Health Guidance
 
 This repository contains a voice-enabled Personal Health Assistant application built using Python and Streamlit. The system takes user voice input, analyzes the symptoms using datasets, and provides:
 
