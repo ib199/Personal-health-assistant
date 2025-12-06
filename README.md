@@ -30,8 +30,6 @@ Personal-health-assistant/
 ├── shoperslist.csv # Shopping transaction records
 └── requirements.txt # Python dependencies
 
-text
-
 ### Technology Stack
 
 | Component | Technology |
@@ -49,8 +47,6 @@ git clone https://github.com/AmitSharma9754/Personal-health-assistant.git
 cd Personal-health-assistant
 pip install -r requirements.txt
 streamlit run app.py
-
-text
 
 **Access URL**: `http://localhost:8501`  
 **Browser Requirements**: Microphone permissions required for voice functionality
@@ -70,8 +66,6 @@ Diet: Low fat, high fiber
 
 Advice: Avoid alcohol consumption
 
-text
-
 ### Case Study 2: Malaria Information
 Recommendations:
 
@@ -80,8 +74,6 @@ Medications: ACTs + paracetamol (consult physician)
 Yoga: Anulom Vilom post-recovery
 
 Diet: Khichdi, coconut water, easily digestible foods
-
-text
 
 ## Data Privacy & Security
 
@@ -133,4 +125,3 @@ Phone: +91 972345670 (Mon-Fri, 9 AM - 6 PM IST)
 ---
 
 Repository maintained for academic and portfolio demonstration purposes only.
-
