@@ -447,7 +447,7 @@ with tab6:
     <h3>Disclaimer</h3>
     <p>Medical info presented here is for education and general wellness only.</p>
     <h3>Customer Care Contact Information</h3>
-    <p><b>Phone: </b><br>Call us toll-free at <b>9754511500</b><br>Available Monday to Friday, 9 AM to 6 PM IST<br></p>
+    <p><b>Phone: </b><br>Call us toll-free at <b>9712345670</b><br>Available Monday to Friday, 9 AM to 6 PM IST<br></p>
     <p><b>E-mail: </b><br>For support and queries, email us at: <br><b>support@yourhealthassistant.com</b></p>
     """, unsafe_allow_html=True)
     st.markdown("""---""")
