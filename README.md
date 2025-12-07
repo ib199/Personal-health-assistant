@@ -70,11 +70,14 @@ cd Personal-health-assistant
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run the App  
+### 3️⃣ Run the App
+
+Run the Streamlit application using:
+
 ```bash
-```
 streamlit run app.py
 ```
+
 
 ---
 
